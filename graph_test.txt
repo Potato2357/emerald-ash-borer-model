@@ -1,0 +1,7 @@
+# Place1 1000 10 10
+# Place2 1000 0 10
+# Place3 1000 0 10
+# Place4 1000 0 10
+Place1 Place2
+Place2 Place3
+Place3 Place4
